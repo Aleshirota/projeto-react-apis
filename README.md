@@ -6,7 +6,7 @@ O Projeto React e APIs é um site de pokémons que possui três páginas: Home, 
 ## Índice 
 - <a href ="#funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout</a>
-- <a href="#demonstraçao">Demonstração</a>
+- <a href="#Demonstraçao">Demonstração</a>
 - <a href="#rodar">Como rodar este Projeto?</a>
 - <a href="#tecnologias">Tecnologias Utilizadas</a>
 - <a href="#autoras">Pessoas Autoras</a>
